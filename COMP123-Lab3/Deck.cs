@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*Student Id: Johaen Gnanakumar
+ * Student #: 300880309
+ * 
+ */ 
 namespace COMP123_Lab3
 {
     class Deck: List<Card>
